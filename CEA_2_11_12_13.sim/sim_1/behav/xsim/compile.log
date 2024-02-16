@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/clkgen_200kHz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkgen_200kHz
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/i2c_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module i2c_master
+INFO: [VRFC 10-2458] undeclared symbol i_bit, assumed default net type wire [D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/i2c_master.v:282]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/pwm_light_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm_light_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/rgb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rgb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/seg_Display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seg_Display
+WARNING: [VRFC 10-965] invalid size of integer constant literal [D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/seg_Display.v:43]
+WARNING: [VRFC 10-986] literal value truncated to fit in 7 bits [D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/seg_Display.v:76]
+WARNING: [VRFC 10-986] literal value truncated to fit in 7 bits [D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/seg_Display.v:77]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/switch_temp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module switch_temp
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb

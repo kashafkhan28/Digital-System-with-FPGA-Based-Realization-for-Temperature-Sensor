@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="seg_Display_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="seg_Display_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/seg_Display_tb/clk_100MHz" type="logic">
+      <obj_property name="ElementShortName">clk_100MHz</obj_property>
+      <obj_property name="ObjectShortName">clk_100MHz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/temp_data" type="array">
+      <obj_property name="ElementShortName">temp_data[15:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/SEG" type="array">
+      <obj_property name="ElementShortName">SEG[6:0]</obj_property>
+      <obj_property name="ObjectShortName">SEG[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/AN" type="array">
+      <obj_property name="ElementShortName">AN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AN[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/dp" type="logic">
+      <obj_property name="ElementShortName">dp</obj_property>
+      <obj_property name="ObjectShortName">dp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/Counter" type="array">
+      <obj_property name="ElementShortName">Counter[17:0]</obj_property>
+      <obj_property name="ObjectShortName">Counter[17:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/seg" type="array">
+      <obj_property name="ElementShortName">seg[3:0]</obj_property>
+      <obj_property name="ObjectShortName">seg[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/first" type="array">
+      <obj_property name="ElementShortName">first[3:0]</obj_property>
+      <obj_property name="ObjectShortName">first[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/second" type="array">
+      <obj_property name="ElementShortName">second[3:0]</obj_property>
+      <obj_property name="ObjectShortName">second[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/third" type="array">
+      <obj_property name="ElementShortName">third[3:0]</obj_property>
+      <obj_property name="ObjectShortName">third[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/fourth" type="array">
+      <obj_property name="ElementShortName">fourth[3:0]</obj_property>
+      <obj_property name="ObjectShortName">fourth[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/fifth" type="array">
+      <obj_property name="ElementShortName">fifth[3:0]</obj_property>
+      <obj_property name="ObjectShortName">fifth[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/sixth" type="array">
+      <obj_property name="ElementShortName">sixth[3:0]</obj_property>
+      <obj_property name="ObjectShortName">sixth[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/seg_Display_tb/uut/seventh" type="array">
+      <obj_property name="ElementShortName">seventh[3:0]</obj_property>
+      <obj_property name="ObjectShortName">seventh[3:0]</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,18 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sim_1/new/seg_Display_tb.v,1674396270,verilog,,,,seg_Display_tb,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sim_1/new/tb_clkgen_200kHz.v,1674396579,verilog,,,,tb_clkgen_200kHz,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sim_1/new/tb_pwm.v,1674393612,verilog,,,,tb_pwm,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sim_1/new/tb_rgb.v,1674395022,verilog,,,,tb_rgb,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sim_1/new/tb_switch_temp.v,1674382532,verilog,,,,tb_switch_temp,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sim_1/new/top_tb.v,1674432824,verilog,,,,top_tb,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/clkgen_200kHz.v,1674427188,verilog,,D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/i2c_master.v,,clkgen_200kHz,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/i2c_master.v,1674428618,verilog,,D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/pwm_light_control.v,,i2c_master,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/pwm_light_control.v,1674450774,verilog,,D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/rgb.v,,pwm_light_control,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/rgb.v,1674453991,verilog,,D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/seg_Display.v,,rgb,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/seg_Display.v,1674433396,verilog,,D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/switch_temp.v,,seg_Display,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/switch_temp.v,1674449000,verilog,,D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/top.v,,switch_temp,,,,,,,,
+D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sources_1/new/top.v,1674448774,verilog,,D:/Uni/7th semester/Digital System Design/Labs/CEA_2_11_12_13/CEA_2_11_12_13.srcs/sim_1/new/top_tb.v,,top,,,,,,,,

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CEA_2_11_12_13.srcs/sources_1/new/clkgen_200kHz.v" \
+"../../../../CEA_2_11_12_13.srcs/sim_1/new/tb_clkgen_200kHz.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

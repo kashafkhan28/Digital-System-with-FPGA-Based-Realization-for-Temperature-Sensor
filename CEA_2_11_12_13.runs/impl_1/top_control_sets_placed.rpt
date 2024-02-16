@@ -1,0 +1,78 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
+| Date         : Mon Jan 23 11:25:19 2023
+| Host         : KashafKhan running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file top_control_sets_placed.rpt
+| Design       : top
+| Device       : xc7a100t
+------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Number of unique control sets                            |    10 |
+| Unused register locations in slices containing registers |    28 |
++----------------------------------------------------------+-------+
+
+
+2. Histogram
+------------
+
++--------+--------------+
+| Fanout | Control Sets |
++--------+--------------+
+|      4 |            4 |
+|      5 |            1 |
+|      7 |            1 |
+|      8 |            1 |
+|    16+ |            3 |
++--------+--------------+
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              41 |           17 |
+| No           | No                    | Yes                    |              42 |           13 |
+| No           | Yes                   | No                     |              12 |            4 |
+| Yes          | No                    | No                     |              37 |           16 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |               0 |            0 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------------------------+----------------------------------+-------------------------------------------+------------------+----------------+
+|           Clock Signal           |           Enable Signal          |              Set/Reset Signal             | Slice Load Count | Bel Load Count |
++----------------------------------+----------------------------------+-------------------------------------------+------------------+----------------+
+|  CLK100MHZ_IBUF_BUFG             |                                  | rgb_instance/duty25/counter[3]_i_1__2_n_0 |                1 |              4 |
+|  CLK100MHZ_IBUF_BUFG             |                                  | rgb_instance/duty50/counter[3]_i_1__1_n_0 |                1 |              4 |
+|  CLK100MHZ_IBUF_BUFG             |                                  | rgb_instance/duty75/clear                 |                2 |              4 |
+|  seg_instance/seg_reg[3]_i_2_n_0 |                                  |                                           |                2 |              4 |
+|  clk_reg_BUFG                    | master/state_reg[4]_i_1_n_0      |                                           |                2 |              5 |
+|  seg_instance/SEG_reg[6]_i_2_n_0 |                                  |                                           |                2 |              7 |
+|  CLK100MHZ_IBUF_BUFG             |                                  | reset_IBUF                                |                2 |              8 |
+|  CLK100MHZ_IBUF_BUFG             |                                  |                                           |               13 |             30 |
+|  clk_reg_BUFG                    | master/temp_data_reg[15]_i_1_n_0 |                                           |               14 |             32 |
+|  clk_reg_BUFG                    |                                  | reset_IBUF                                |               11 |             34 |
++----------------------------------+----------------------------------+-------------------------------------------+------------------+----------------+
+
+
